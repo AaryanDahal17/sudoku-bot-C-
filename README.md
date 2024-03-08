@@ -13,4 +13,4 @@ Enter sudoku gameState row by row in the following format :
 
 The solved board will be printed (if the input is valid) 
 
-Enjoy
+Enjoy!
